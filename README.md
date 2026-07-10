@@ -164,6 +164,16 @@ Open feedback here:
 
 ---
 
+## Contact
+
+For V3XILI AI support, partnership requests or product questions:
+
+**v3xilisuppor@outlook.com**
+
+For sensitive security reports, please use the contact details in [`SECURITY.md`](./SECURITY.md).
+
+---
+
 ## Legal note
 
 © 2026 V3XILI AI. All rights reserved.
