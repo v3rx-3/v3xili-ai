@@ -1,0 +1,68 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">V3XILI AI banner</title>
+  <desc id="desc">A futuristic banner for V3XILI AI, a private AI workspace for study, coding and creation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070A18"/>
+      <stop offset="0.45" stop-color="#111B3D"/>
+      <stop offset="1" stop-color="#241047"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(270 180) rotate(42) scale(430 280)">
+      <stop stop-color="#4BD8FF" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#4BD8FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 440) rotate(42) scale(420 300)">
+      <stop stop-color="#A66CFF" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#A66CFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1280" height="640" rx="42" fill="url(#bg)"/>
+  <rect width="1280" height="640" rx="42" fill="url(#glow1)"/>
+  <rect width="1280" height="640" rx="42" fill="url(#glow2)"/>
+
+  <g opacity="0.18">
+    <path d="M0 118H1280M0 218H1280M0 318H1280M0 418H1280M0 518H1280" stroke="white"/>
+    <path d="M154 0V640M314 0V640M474 0V640M634 0V640M794 0V640M954 0V640M1114 0V640" stroke="white"/>
+  </g>
+
+  <g filter="url(#blur)" opacity="0.72">
+    <circle cx="1030" cy="158" r="78" fill="#4BD8FF"/>
+    <circle cx="1115" cy="218" r="62" fill="#A66CFF"/>
+  </g>
+
+  <rect x="72" y="76" width="1136" height="488" rx="34" fill="white" fill-opacity="0.065" stroke="white" stroke-opacity="0.18"/>
+  <rect x="98" y="102" width="1084" height="436" rx="26" fill="#050711" fill-opacity="0.48" stroke="white" stroke-opacity="0.12"/>
+
+  <text x="126" y="190" fill="#EAF6FF" font-size="76" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800" letter-spacing="1.5">V3XILI AI</text>
+  <text x="130" y="246" fill="#8BE8FF" font-size="28" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="600">Private AI workspace for study, coding and creation</text>
+
+  <g transform="translate(130 302)">
+    <rect width="174" height="46" rx="23" fill="#4BD8FF" fill-opacity="0.14" stroke="#4BD8FF" stroke-opacity="0.55"/>
+    <text x="26" y="30" fill="#DDF8FF" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">AI Chat</text>
+  </g>
+  <g transform="translate(326 302)">
+    <rect width="190" height="46" rx="23" fill="#A66CFF" fill-opacity="0.16" stroke="#A66CFF" stroke-opacity="0.55"/>
+    <text x="25" y="30" fill="#F2EAFF" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">Vision Studio</text>
+  </g>
+  <g transform="translate(538 302)">
+    <rect width="190" height="46" rx="23" fill="#4BD8FF" fill-opacity="0.14" stroke="#4BD8FF" stroke-opacity="0.55"/>
+    <text x="25" y="30" fill="#DDF8FF" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">Image Studio</text>
+  </g>
+  <g transform="translate(750 302)">
+    <rect width="176" height="46" rx="23" fill="#A66CFF" fill-opacity="0.16" stroke="#A66CFF" stroke-opacity="0.55"/>
+    <text x="27" y="30" fill="#F2EAFF" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">Plugging</text>
+  </g>
+  <g transform="translate(948 302)">
+    <rect width="154" height="46" rx="23" fill="#4BD8FF" fill-opacity="0.14" stroke="#4BD8FF" stroke-opacity="0.55"/>
+    <text x="24" y="30" fill="#DDF8FF" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">kazaAI</text>
+  </g>
+
+  <text x="130" y="420" fill="#D7E8FF" font-size="26" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="600">One interface. Multiple AI workflows. Built for real productivity.</text>
+  <text x="130" y="468" fill="#9FB6D8" font-size="22" font-family="Inter, Segoe UI, Arial, sans-serif">v3xiliai.online</text>
+
+  <g transform="translate(990 418)">
+    <rect width="138" height="52" rx="26" fill="#FFFFFF" fill-opacity="0.1" stroke="#FFFFFF" stroke-opacity="0.25"/>
+    <text x="34" y="33" fill="#FFFFFF" font-size="17" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">LIVE</text>
+  </g>
+</svg>
